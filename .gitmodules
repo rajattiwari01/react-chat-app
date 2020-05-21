@@ -1,0 +1,3 @@
+[submodule "react-chat-app"]
+	path = react-chat-app
+	url = https://github.com/rajattiwari111/react-chat-app.git
